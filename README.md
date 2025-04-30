@@ -1,4 +1,4 @@
-# Teleoperation System for Android Upper Body
+# Teleoperation System for Android Upper Body (Codebase not updated yet)
 
 This project is a teleoperation system designed to control the upper body of a humanoid android robot. The system enhances body ownership transfer through immersive control mechanisms, enabling intuitive and responsive manipulation.
 
